@@ -50,7 +50,7 @@ reward = -1 per step (costs energy) OR -100 (fell in cliff!)
 ## 📁 Project Files
 
 - [`ReinforcementLearning.ipynb`](./reinforcementlearning.ipynb) - Full notebook with training + visualization
-- [`ReinforcementLearning.ipynb`](./reinforcementlearning.html) - HTML version for easy viewing
+- [`ReinforcementLearning.html`](./reinforcementlearning.html) - HTML version for easy viewing
 - [`rl_training_videos`](./rl_training_videos) - 5 animated GIFs + learning curve chart
   - [`episode_001.gif`](/rl_training_videos/episode_001.gif) - Total chaos (1.7 MB)
   - [`episode_020.gif`](/rl_training_videos/episode_020.gif) - Learning starts (706 KB)
